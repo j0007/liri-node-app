@@ -15,4 +15,4 @@ var Spotify = function() {
         console.log(data); })
 
 };
-Music();
+Music();[] 
